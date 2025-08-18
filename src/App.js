@@ -7,7 +7,6 @@ function App() {
       <h1 className="text-white text-4xl md:text-6xl font-extrabold mb-6 drop-shadow-lg">
         CHOOSE YOUR OWN FLAVOR
       </h1>
-
       <div className="flex flex-wrap justify-center gap-8 mb-8">
         {[
           "https://pngimg.com/uploads/donut/donut_PNG46.png",
