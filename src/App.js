@@ -4,9 +4,9 @@ import { motion } from "framer-motion";
 function App() {
   const donuts = [
     "https://pngimg.com/uploads/donut/donut_PNG46.png",
-    "https://pngimg.com/uploads/donut/donut_PNG38.png",
-    "https://pngimg.com/uploads/donut/donut_PNG63.png",
-    "https://pngimg.com/uploads/donut/donut_PNG67.png",
+    "https://pngimg.com/uploads/donut/donut_PNG39.png",
+    "https://pngimg.com/uploads/donut/donut_PNG64.png",
+    "https://pngimg.com/uploads/donut/donut_PNG78.png",
   ];
 
   const sprinkles = Array.from({ length: 15 });
