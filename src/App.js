@@ -60,7 +60,7 @@ function App() {
             }}
             transition={{
               duration: 1.5,
-              delay: index * 0.5, // stagger drop
+              delay: index * 0.5, 
               ease: "easeOut",
               repeat: Infinity,
               repeatDelay: 3,
