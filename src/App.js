@@ -53,7 +53,7 @@ function App() {
             className="bg-white rounded-full shadow-xl p-6 w-32 h-32 md:w-40 md:h-40 flex items-center justify-center"
             initial={{ y: -200, opacity: 0 }}
             animate={{
-              y: [0, -15, 0], // floating
+              y: [0, -15, 0], 
               opacity: 1,
               rotate: [0, 8, -8, 0],
               scale: [1, 1.05, 1],
