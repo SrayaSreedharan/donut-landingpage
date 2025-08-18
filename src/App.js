@@ -8,7 +8,6 @@ function App() {
         CHOOSE YOUR OWN FLAVOR
       </h1>
 
-      
       <div className="flex flex-wrap justify-center gap-8 mb-8">
         {[
           "https://pngimg.com/uploads/donut/donut_PNG46.png",
