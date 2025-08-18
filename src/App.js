@@ -4,7 +4,6 @@ import { motion } from "framer-motion";
 function App() {
   return (
     <div className="min-h-screen bg-yellow-400 flex flex-col items-center justify-center text-center px-6">
-     
       <h1 className="text-white text-4xl md:text-6xl font-extrabold mb-6 drop-shadow-lg">
         CHOOSE YOUR OWN FLAVOR
       </h1>
