@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-yellow-400 to-yellow-500 flex flex-col items-center justify-center text-center px-6 relative overflow-hidden">
       
-      {/* Sprinkles floating in background */}
+      
       {sprinkles.map((_, i) => (
         <motion.div
           key={i}
