@@ -46,7 +46,6 @@ function App() {
         CHOOSE YOUR OWN FLAVOR
       </motion.h1>
 
-      
       <div className="flex justify-center gap-10 mb-12 relative z-10">
         {donuts.map((src, index) => (
           <motion.div
