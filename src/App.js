@@ -69,7 +69,7 @@ function App() {
               src={src}
               alt="donut"
               className="w-20 h-20 md:w-28 md:h-28 object-contain drop-shadow-md"
-    />
+  />
           </motion.div>
         ))}
       </div>
