@@ -41,8 +41,7 @@ function App() {
         initial={{ opacity: 0, y: -50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, ease: "easeOut" }}
-        className="text-white text-4xl md:text-6xl font-extrabold mb-10 drop-shadow-lg relative z-10"
-  >
+        className="text-white text-4xl md:text-6xl font-extrabold mb-10 drop-shadow-lg relative z-10">
         CHOOSE YOUR OWN FLAVOR
       </motion.h1>
 
