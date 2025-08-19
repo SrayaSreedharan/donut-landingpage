@@ -17,6 +17,7 @@ function App() {
       {sprinkles.map((_, i) => (
         <motion.div
           key={i}
+          
           className="absolute w-2 h-2 rounded-full"
           style={{
             backgroundColor: ["#ff6b6b", "#ffcc00", "#4ecdc4", "#ff99cc"][i % 4],
