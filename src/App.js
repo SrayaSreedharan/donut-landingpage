@@ -19,7 +19,7 @@ function App() {
           key={i}
           className="absolute w-2 h-2 rounded-full"
           style={{
-            backgroundColor: ["#ff6b6b", "#ffcc00", "#4ecdc4", "#ff99cc"][i % 4],
+            backgroundColor: ["#ff6b6b", "#ffcc00", "#4ecdc4", "#ff99cc"][i % 0],
             top: `${Math.random() * 100}%`,
             left: `${Math.random() * 100}%`,
           }}
