@@ -24,6 +24,7 @@ function App() {
             left: `${Math.random() * 100}%`,
           }}
           animate={{
+            
             y: [0, -30, 0],
             x: [0, 20, -20, 0],
             opacity: [0.6, 1, 0.6],
