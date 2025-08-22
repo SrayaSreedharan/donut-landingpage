@@ -39,7 +39,6 @@ function App() {
 
 
 
-
           
           transition={{
             duration: 6 + Math.random() * 4,
