@@ -34,6 +34,7 @@ function App() {
             ease: "easeInOut",
             delay: i * 0.2,
           }}
+          
         />
       ))}
 
