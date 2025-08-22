@@ -28,8 +28,6 @@ function App() {
             x: [0, 20, -20, 0], 
             opacity: [0.6, 1, 0.6],
           }}
-
-
           
           transition={{
             duration: 6 + Math.random() * 4,
